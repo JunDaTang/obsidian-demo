@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "56b7e62a2924d494",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd6fe7eab8420b92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f372cc3ca6fd36c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Content/Draft-Cards/DRAFT-X-内容做不起来不一定是产能问题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DRAFT-X-内容做不起来不一定是产能问题"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68d371a61a054958",
+    "type": "split",
+    "children": [
+      {
+        "id": "1de720cac232bfdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03c1368d00543da4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "7800d351fae8eba7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "419ba715e2c080c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3fa18b9d8ec7b9f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae3fb4a238049aa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f25ed236ff5062e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05_Content/Draft-Cards/DRAFT-X-内容做不起来不一定是产能问题.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "DRAFT-X-内容做不起来不一定是产能问题 的反向链接列表"
+            }
+          },
+          {
+            "id": "c4f658b7095841a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05_Content/Draft-Cards/DRAFT-X-内容做不起来不一定是产能问题.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "DRAFT-X-内容做不起来不一定是产能问题 的出链列表"
+            }
+          },
+          {
+            "id": "a4b29c8148459264",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "51859e2fcbeab740",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ca93c7f680b4107a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05_Content/Draft-Cards/DRAFT-X-内容做不起来不一定是产能问题.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "DRAFT-X-内容做不起来不一定是产能问题 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "f372cc3ca6fd36c0",
+  "lastOpenFiles": [
+    "01_Projects/2026-03-内容实验/00_Project-Overview.md",
+    "99_Dashboard/INDEX-活跃项目与主题.md",
+    "99_Dashboard/NEXT-ACTIONS.md",
+    "03_Resources/Source-Materials/Conversations/2026-03-25-关于全自动内容工厂的对话摘录.md",
+    "03_Resources/Asset-Library/Frameworks/PARA-ZK-Content-Engine-Framework.md",
+    "05_Content/Repurposing/REPURPOSE-从短帖扩展为长文和视频.md",
+    "05_Content/Feedback/REVIEW-2026-03-27-X-内容做不起来不一定是产能问题.md",
+    "05_Content/Published/PUB-2026-03-26-X-内容做不起来不一定是产能问题.md",
+    "05_Content/Draft-Cards/DRAFT-X-内容做不起来不一定是产能问题.md",
+    "02_Areas/个人品牌/Area-Overview.md",
+    "04_Knowledge/Literature/LIT-2026-03-25-AI放大内容效率也放大内容同质化.md",
+    "04_Knowledge/Maps-of-Content/MOC-内容工厂.md",
+    "05_Content/Angle-Cards/ANGLE-商业-全自动内容工厂适合矩阵号不适合个人IP.md",
+    "05_Content/Angle-Cards/ANGLE-方法论-自动化适合加工不适合判断.md",
+    "05_Content/Angle-Cards/ANGLE-反常识-内容做不起来不一定是产能问题.md",
+    "04_Knowledge/Permanent/自动化适合放大内容产能不适合替代观点生成.md",
+    "05_Content/Topic-Cards/为什么全自动化内容工厂很容易失去人味.md",
+    "04_Knowledge/Fleeting/2026-03-25-AI内容自动化是不是会让账号失去人味.md",
+    "00_System/START-HERE.md",
+    "00_System/AI-OPERATOR.md",
+    "02_Areas/内容方法论/Area-Overview.md",
+    "02_Areas/AI内容工厂/Area-Overview.md",
+    "90_Templates/TPL-Area-Overview.md",
+    "90_Templates/TPL-Project-Overview.md",
+    "90_Templates/TPL-Feedback.md",
+    "90_Templates/TPL-Published.md",
+    "90_Templates",
+    "06_Archives/Deprecated-Ideas",
+    "06_Archives/Archived-Projects",
+    "06_Archives/Archived-Knowledge",
+    "06_Archives/Archived-Content",
+    "06_Archives",
+    "05_Content/Topic-Cards",
+    "05_Content/Repurposing",
+    "05_Content/Published",
+    "05_Content/Inbox"
+  ]
+}
