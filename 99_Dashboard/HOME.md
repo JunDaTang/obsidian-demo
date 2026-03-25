@@ -13,7 +13,9 @@
 - [[01_Projects/2026-03-内容实验/00_Project-Overview]]
 - [[02_Areas/AI内容工厂/Area-Overview]]
 - [[04_Knowledge/Maps-of-Content/MOC-内容工厂]]
+- [[04_Knowledge/Maps-of-Content/MOC-内容坚持与系统]]
 - [[05_Content/Topic-Cards/为什么全自动化内容工厂很容易失去人味]]
+- [[05_Content/Topic-Cards/为什么很多人做内容坚持不下来]]
 
 ## 日常入口
 - 灵感箱：[[05_Content/Inbox]]

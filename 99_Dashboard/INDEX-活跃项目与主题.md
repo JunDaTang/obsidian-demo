@@ -10,6 +10,8 @@
 
 ## 活跃 Permanent Notes
 - [[../04_Knowledge/Permanent/自动化适合放大内容产能不适合替代观点生成]]
+- [[../04_Knowledge/Permanent/很多人做内容坚持不下来不是因为不自律而是因为没有内容系统]]
 
 ## 活跃 Topics
 - [[../05_Content/Topic-Cards/为什么全自动化内容工厂很容易失去人味]]
+- [[../05_Content/Topic-Cards/为什么很多人做内容坚持不下来]]
